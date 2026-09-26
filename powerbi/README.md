@@ -75,3 +75,17 @@ Centre, Course and Gender slicers allow users to filter the dashboard and analyz
 - Delta Lake
 - PySpark
 - Azure Data Lake Storage Gen2
+
+- ## Dashboard Screenshots
+
+### Page 1 – Learner Performance & Placement Dashboard
+
+![Dashboard Page 1](./screenshots/LinkedIn_Page1_Clean.jpg)
+
+### Page 2 – Detailed Analytics
+
+![Dashboard Page 2](./screenshots/LinkedIn_Page2_Clean.jpg)
+
+### Page 3 – Filters & Learner Analysis
+
+![Dashboard Page 3](./screenshots/LinkedIn_Page3_Clean.jpg)
