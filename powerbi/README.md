@@ -78,14 +78,8 @@ Centre, Course and Gender slicers allow users to filter the dashboard and analyz
 
 - ## Dashboard Screenshots
 
-### Page 1 – Learner Performance & Placement Dashboard
+![Dashboard Page 1](./powerbi/screenshots/Page1.png)
 
-![Dashboard Page 1](./screenshots/LinkedIn_Page1_Clean.jpg)
+![Dashboard Page 2](./powerbi/screenshots/Page2.png)
 
-### Page 2 – Detailed Analytics
-
-![Dashboard Page 2](./screenshots/LinkedIn_Page2_Clean.jpg)
-
-### Page 3 – Filters & Learner Analysis
-
-![Dashboard Page 3](./screenshots/LinkedIn_Page3_Clean.jpg)
+![Dashboard Page 3](./powerbi/screenshots/Page3.png)
