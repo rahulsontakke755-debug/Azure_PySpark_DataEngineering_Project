@@ -82,4 +82,4 @@ Centre, Course and Gender slicers allow users to filter the dashboard and analyz
 
 ![Dashboard Page 2](./powerbi/screenshots/Page2.png)
 
-![Dashboard Page 3](./powerbi/screenshots/Page3.png)
+![Dashboard Page 3](./powerbi/screenshots/page3.png)
